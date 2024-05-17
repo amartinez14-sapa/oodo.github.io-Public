@@ -36,7 +36,7 @@ Odoo necessita algunes dependencies que hem d'instal·lar abans de continuar amb
 apt install build-essential wget git python3-pip python3-dev python3-venv \
     python3-wheel libfreetype6-dev libxml2-dev libzip-dev libsasl2-dev \
     python3-setuptools node-less libjpeg-dev zlib1g-dev libpq-dev \
-    libxslt1-dev libldap2-dev libtiff5-dev libopenjp2-7-dev libcap-dev
+    libxslt1-dev libldap2-dev libtiff5-dev libopenjp2-7-dev libcap-dev \            postgresql
 ```
 
 ## Pas 3: Descarregar Odoo 17
@@ -52,7 +52,8 @@ Creem un entorn virtual per a Odoo i instal·lem les seves dependencies Python:
 
 ```bash
 cd /opt/odoo
-sudo python3 -m venv odoo-venv
+python3 -m venv odoo17-venv
+source odoo17-venv/bin/activate
 sudo /opt/odoo/odoo-venv/bin/pip3 install wheel
 sudo /opt/odoo/odoo-venv/bin/pip3 install -r requirements.txt
 ```
@@ -68,13 +69,14 @@ sudo nano /etc/odoo.conf
 Edita les opcions següents segons les teves preferències:
 
 ```plaintext
-[options]
 "Esta es la contraseña que permite las operaciones en la base de datos:"
-admin_passwd = master_password
+[options]
+admin_passwd = m0d1fyth15
 db_host = False
 db_port = False
-db_user = odoo
+db_user = odoo17
 db_password = False
+addons_path = /opt/odoo17/odoo17/addons,/opt/odoo17/odoo17/custom-addons
 ```
 
 ## Pas 6: Crear un servei systemd per a Odoo
