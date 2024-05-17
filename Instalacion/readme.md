@@ -38,13 +38,41 @@ apt install build-essential wget git python3-pip python3-dev python3-venv \
     python3-setuptools node-less libjpeg-dev zlib1g-dev libpq-dev \
     libxslt1-dev libldap2-dev libtiff5-dev libopenjp2-7-dev libcap-dev
 ```
+## Pas 3: Creacio Usuario
+```bash
+adduser \
+   --system \
+   --shell /bin/bash \
+   --gecos 'Odoo user' \
+   --group \
+   --home /opt/odoo17 \
+odoo17
+```
+
+## Pas 4: Instalació PostgreSQL
+```bash
+# apt install postgresql
+```
+Espereu fins que acabi i, a continuació, afegiu un usuari de PostgreSQL per al nostre Odoo 17. Podeu fer-ho executant aquesta ordre:
+```bash
+# su - postgres -c "createuser -s odoo17"
+```
+
+## Pas 5: Instalació wkhtmltopdf
+```bash
+# apt install wkhtmltopdf
+```
 
 ## Pas 3: Descarregar Odoo 17
 Anem al directori /opt i descarreguem el codi font d'Odoo 17 mitjançant Git:
 
 ```bash
+ su - odoo17
+```
+
+```bash
 cd /opt
-sudo git clone https://www.github.com/odoo/odoo --depth 1 --branch 17.0 --single-branch
+sudo git clone https://www.github.com/odoo/odoo --depth 1 --branch 17.0 odoo17
 ```
 
 ## Pas 4: Configurar l'entorn virtual i instal·lar Odoo
@@ -54,8 +82,8 @@ Creem un entorn virtual per a Odoo i instal·lem les seves dependencies Python:
 cd /opt/odoo
 python3 -m venv odoo17-venv
 source odoo17-venv/bin/activate
-sudo /opt/odoo/odoo-venv/bin/pip3 install wheel
-sudo /opt/odoo/odoo-venv/bin/pip3 install -r requirements.txt
+pip3 install wheel
+pip3 install -r odoo17/requirements.txt
 ```
 
 ## Pas 5: Configurar Odoo
