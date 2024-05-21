@@ -16,9 +16,9 @@ I ja està! Ja hauràs creat una nova companyia a Odoo.
 
 # Com crear usuaris en Odoo.
 1. Entramos en modo administrador utilizando este link:
-http://192.168.56.126:8069/web?debug=1#action=menu&cids=1
-2. Para agregar nuevos usuarios vaya a Ajustes ‣ sección Usuarios ‣ Administrar usuarios y haga clic en Crear.
+http://{IP}:8069/web?debug=1#action=menu&cids=1
+1. Para agregar nuevos usuarios vaya a Ajustes ‣ sección Usuarios ‣ Administrar usuarios y haga clic en Crear.
    ![gestionar_usuarios](img/gestionar_usuarios.jpeg)
-3. Complete el formulario con toda la información necesaria. 
+2. Complete el formulario con toda la información necesaria. 
    ![usuario](img/usuario.jpeg)
 No es necesario agregar el usuario a ninguna empresa, ya que solo al tener 1 se agrega automaticamente a ella. Para esto hemos echo la prueba de crear otra empresa i poder comprobar-lo.
