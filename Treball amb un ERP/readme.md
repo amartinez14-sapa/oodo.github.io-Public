@@ -1,7 +1,7 @@
 # Treball amb un ERP: compres i vendes. 
 
 1. Entreu al sistema (login) amb l’usuari anterior (no com a administrador).
-
+ ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/foto_ajustes.jpeg)
 2. Creeu dos proveïdors.
 3. Creeu dos productes (amb control d’estoc) i dos serveis (sense control d’estoc). Poseu-hi una imatge i el proveïdor habitual on es compren.
 4. Comproveu l’estoc d’aquests productes (inventari).
