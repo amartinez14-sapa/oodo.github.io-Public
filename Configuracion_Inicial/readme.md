@@ -4,6 +4,7 @@
    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/foto_ajustes.jpeg)
 
 2. Des de la següent secció, localitza l'apartat «Companyies» i fes clic sobre l'opció «Actualitzar informació».
+   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/Guia_Conexio_Empresa.png)
 
 3. S'obrirà una fitxa des d'on hauràs d'omplir les dades de la teva nova companyia. Insereix una imatge si ho desitges i omple el nom, l'adreça, el lloc web, el correu electrònic de contacte, el número de telèfon, el NIF, i finalment, prem sobre el botó «Desar».
    
@@ -21,7 +22,7 @@
 
       
 
-3. Escull els mòduls desitjats fent clic al botó activar. En el nostre cas hem escollit Sales, Purchase, Inventory, Employees i Point of sales.
+2. Escull els mòduls desitjats fent clic al botó activar. En el nostre cas hem escollit Sales, Purchase, Inventory, Employees i Point of sales.
    ![apps](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/APPS.png)
    
    ![moduls](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/moduls.jpeg)
