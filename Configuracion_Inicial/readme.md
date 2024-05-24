@@ -7,7 +7,7 @@
 
 3. S'obrirà una fitxa des d'on hauràs d'omplir les dades de la teva nova companyia. Insereix una imatge si ho desitges i omple el nom, l'adreça, el lloc web, el correu electrònic de contacte, el número de telèfon, el NIF, i finalment, prem sobre el botó «Desar».
    
-   ![dades_de_l'empresa](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/foto_ajustes.jpeg?raw=true)
+   ![dades_de_l'empresa_buides](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/Fitxa_Empresa_Buida.png)
 
 4. Ja està! Ja hauràs creat una nova companyia a Odoo.
 
