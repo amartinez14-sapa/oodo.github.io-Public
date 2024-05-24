@@ -1,7 +1,7 @@
 # Com crear una nova companyia en Odoo
 
 1. Accedeix al teu panell d'administració d'Odoo i prem sobre la icona formada per quatre quadrats localitzada a la part superior esquerra de la teva pantalla. Fes clic sobre l'opció «Ajustos».  
-   ![foto_ajustes](img/foto_ajustes.jpeg)
+   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/foto_ajustes.jpeg)
 
 2. Des de la següent secció, localitza l'apartat «Companyies» i fes clic sobre l'opció «Actualitzar informació».
 
