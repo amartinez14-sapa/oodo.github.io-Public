@@ -26,7 +26,7 @@ I ja està! Ja hauràs creat una nova companyia a Odoo.
 2. Para agregar nuevos usuarios vaya a Ajustes ‣ sección Usuarios ‣ Administrar usuarios y haga clic en Crear.  
    ![gestionar_usuarios](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/gestionar_usuarios.jpeg)
 
-3. Complete el formulario con toda la información necesaria.  
-   ![usuario](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/usuario.jpeg)
+3. Complete el formulario con toda la información necesaria per crear un usuario no administrador.  
+   ![usuario_no_adm](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/Usuari_Manu.png)
 
 No es necesario agregar el usuario a ninguna empresa, ya que solo al tener 1 se agrega automáticamente a ella. Para esto hemos hecho la prueba de crear otra empresa y poder comprobarlo.
