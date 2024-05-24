@@ -84,24 +84,82 @@
 
    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/3.Servicio.png)
    
-6. Comproveu l’estoc d’aquests productes (inventari).
+5. Comproveu l’estoc d’aquests productes (inventari).
+   5.1 Per arribar a l'informe de l'estoc actual anem a Inventari (cuadrat a dal de tot a l'esquerra) -> Informes -> Stock
    
-8. Feu una comanda de compra als proveïdors habituals de deu unitats dels productes que heu creat. Imprimiu el pdf de la comanda de compra.
-9. Recepcioneu els productes que heu comprat (albarà de compra).
-10. Comproveu els estocs dels productes creats i rebuts.
-10. Creeu tres clients.
-    
-    10.1 Anem fins a la pestanya de proveidors (Compres -> Ordres -> Proveidors) 
+   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/0.Stock.png) 
+   
+   5.2 Com es pot apreciar, per fer la proba, hem afegit alguns productes "innecessaris".
 
-    10.2
+   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/1.Stock.png) 
+
+6. Feu una comanda de compra als proveïdors habituals de deu unitats dels productes que heu creat. Imprimiu el pdf de la comanda de compra.
+* Ens hem adonat ara que hem comes un error, hem de cambiat el producte de consumible a "Producto almacenable" * 
+   6.1 Anem al menu de compra -> Nuevo 
+
+   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/0.Reponer_Stock.png) 
+
+   6.2 Fem la compra de 10 unitats
+
+   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/1.Reponer_Stock.png) 
+
+   6.3 A la seguent foto veiem com esgenera l'albara de compra
+
+   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/2.Reponer_Stock.png) 
+
+
+7. Recepcioneu els productes que heu comprat (albarà de compra).
+
+   7.1 A la barra del navegador anem fins l'inventari (Obres el menu i Inventari), Dins de "Inventario" trobem un boto on posa "Recepcion. Fem click.
+
+   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/1.Repecion.png)
+
+   7.2 Clickem al boto "Nuevo"
+
+   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/2.Repecion.png)
+
+   7.3 Omples les dades corresponents que et demanen
+
+   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/3.Repecion.png)
+   7.4 Clickes el voto de "Validar"
+
+   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/4.Repecion.png)
+
+   7.5 Captura de la validació feta
+
+   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/5.Recepecion.png)
+   
+      
+8. Comproveu els estocs dels productes creats i rebuts.
+   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/0.comprobar_stock.png)
+
+   
+9. Creeu tres clients.
     
-    10.3
+    9.1 Anem fins a la pestanya de proveidors (Compres -> Ordres -> Proveidors), Cliquem a nou i escollim individu.
+
+    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/0.Cliente.png)
+    9.2 Omlplim les dades corresponents
+
+    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/1.Cliente.png)
     
-    10.4
-    
-    10.5
+    9.3 Així es creen els Clients
+
+    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/3.Cliente.png)
     
 12. Feu una venda a cadascun dels tres clients amb productes dels que heu donat d’alta. Cobreu-les.
-13. Visualitzeu les factures. Imprimiu-les en un fitxer pdf.
-14. Comproveu l’estoc dels productes.
+    Client Dolres Decabeza
+    
+    Client Elverga larga
+    
+    Client Rosa Melano
+    
+14. Visualitzeu les factures. Imprimiu-les en un fitxer pdf.
+    Client Dolres Decabeza
+    
+    Client Elverga larga
+    
+    Client Rosa Melano
+    
+16. Comproveu l’estoc dels productes.
 
