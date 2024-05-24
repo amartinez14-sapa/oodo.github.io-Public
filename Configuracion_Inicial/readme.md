@@ -40,4 +40,4 @@
    
    ![usuaris_no_adm](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/Usuari_Manu.png)
 
-No és necessari agregar l'usuari a cap empresa, ja que només en tenir 1 s'agrega automàticament a ella. Per a això hem fet la prova de crear una altra empresa i poder comprovar-ho.
+No és necessari agregar l'usuari a cap empresa, ja que només en tenir una, s'agrega automàticament a ella. Per a això hem fet la prova de crear una altra empresa per comprovar-ho.
