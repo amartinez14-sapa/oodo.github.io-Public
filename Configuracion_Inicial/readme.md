@@ -17,9 +17,11 @@ I ja està! Ja hauràs creat una nova companyia a Odoo.
    
    ![apps](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/apps.jpeg)
 
-   ![apps](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/APPS.png)   
+      
 
-3. Escull els mòduls desitjats fent clic al botó activar. En el nostre cas hem escollit Sales, Purchase, Inventory, Employees i Point of sales.  
+3. Escull els mòduls desitjats fent clic al botó activar. En el nostre cas hem escollit Sales, Purchase, Inventory, Employees i Point of sales.
+   ![apps](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/APPS.png)
+   
    ![moduls](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/moduls.jpeg)
 
 # Com crear usuaris en Odoo
