@@ -4,7 +4,7 @@
  ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/Usuari_Alex_No_ADM.png)
 2. Creeu dos proveïdors.
    2.1 Nem a  la pestanya de compres.
-   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/Usuari_Alex_No_ADM.png)
+   ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/1.Crear_Provedor.png)
    2.2 Amun a l'esquerra trobem la pestanya ordres, si la clicem, sobre una subpestanya on trobem els proveidors 
    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/Usuari_Alex_No_ADM.png)
    2.3
