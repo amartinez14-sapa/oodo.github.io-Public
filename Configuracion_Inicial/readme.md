@@ -7,7 +7,7 @@
 
 3. S'obrirà una fitxa des d'on hauràs d'omplir les dades de la teva nova companyia. Insereix una imatge si ho desitges i omple el nom, l'adreça, el lloc web, el correu electrònic de contacte, el número de telèfon, el NIF, i finalment, prem sobre el botó «Desar».
    
-   ![datos_empresa](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/foto_ajustes.jpeg?raw=true)
+   ![dades_de_l'empresa](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/foto_ajustes.jpeg?raw=true)
 
 I ja està! Ja hauràs creat una nova companyia a Odoo.
 
@@ -26,15 +26,15 @@ I ja està! Ja hauràs creat una nova companyia a Odoo.
 
 # Com crear usuaris en Odoo
 
-1. Entramos en modo administrador utilizando este link:  
+1. Entrem en mode administrador utilitzant aquest link:
    http://{IP}:8069/web?debug=1#action=menu&cids=1
 
-2. Para agregar nuevos usuarios vaya a Ajustes ‣ sección Usuarios ‣ Administrar usuarios y haga clic en Crear.
+2. Per a agregar nous usuaris vagi a Ajustos ‣ secció Usuaris ‣ Administrar usuaris i faci clic a Crear..
    
-   ![gestionar_usuarios](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/gestionar_usuarios.jpeg)
+   ![gestió_d'usuaris](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/gestionar_usuarios.jpeg)
 
-3. Complete el formulario con toda la información necesaria per crear un usuario no administrador.
+3. Completi el formulari amb tota la informació necessària per crear un usuari no administrador.
    
-   ![usuario_no_adm](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/Usuari_Manu.png)
+   ![usuaris_no_adm](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/Usuari_Manu.png)
 
-No es necesario agregar el usuario a ninguna empresa, ya que solo al tener 1 se agrega automáticamente a ella. Para esto hemos hecho la prueba de crear otra empresa y poder comprobarlo.
+No és necessari agregar l'usuari a cap empresa, ja que només en tenir 1 s'agrega automàticament a ella. Per a això hem fet la prova de crear una altra empresa i poder comprovar-ho.
