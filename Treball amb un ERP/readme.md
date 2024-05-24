@@ -90,11 +90,17 @@
 9. Recepcioneu els productes que heu comprat (albarà de compra).
 10. Comproveu els estocs dels productes creats i rebuts.
 10. Creeu tres clients.
-    10.1
+    
+    10.1 Anem fins a la pestanya de proveidors (Compres -> Ordres -> Proveidors) 
+
     10.2
+    
     10.3
+    
     10.4
+    
     10.5
+    
 12. Feu una venda a cadascun dels tres clients amb productes dels que heu donat d’alta. Cobreu-les.
 13. Visualitzeu les factures. Imprimiu-les en un fitxer pdf.
 14. Comproveu l’estoc dels productes.
