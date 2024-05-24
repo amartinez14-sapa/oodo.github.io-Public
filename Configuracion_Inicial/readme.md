@@ -9,8 +9,10 @@
    
    ![dades_de_l'empresa](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/foto_ajustes.jpeg?raw=true)
 
-I ja està! Ja hauràs creat una nova companyia a Odoo.
+4. Ja està! Ja hauràs creat una nova companyia a Odoo.
 
+   ![dades_de_l'empresa](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/Fitxa_Empresa.png)
+   
 ## Com agregar mòduls a l'Odoo
 
 1. Accedeix al teu panell d'administració d'Odoo i prem sobre la icona formada per quatre quadrats localitzada a la part superior esquerra de la teva pantalla. Fes clic sobre l'opció «Apps».
