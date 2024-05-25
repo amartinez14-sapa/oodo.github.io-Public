@@ -13,9 +13,6 @@ En aquesta secció es proporciona la informació necessària per instal·lar l'E
 ### [Treball amb un ERP](./Treball%20amb%20un%20ERP)
 Documentació i guies sobre com treballar amb un ERP. Aquesta secció està dissenyada per a usuaris que ja han completat la instal·lació i configuració i desitgen aprendre a utilitzar el sistema eficaçment.
 
-### img
-Aquesta carpeta conté imatges utilitzades en la documentació per il·lustrar passos o interfícies de l'ERP.
-
 ## Com Contribuir
 
 1. **Clona el repositori**: `git clone https://github.com/el-teu-usuari/oodo.github.io-Public.git`
