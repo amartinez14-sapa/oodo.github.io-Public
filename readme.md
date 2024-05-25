@@ -1,4 +1,4 @@
-# oodo.github.io-Public
+# M04UF3 A03pg Odoo
 
 Aquest repositori conté documentació i recursos per a la configuració, instal·lació i ús d'un ERP (Enterprise Resource Planning) basat en Odoo. A continuació, es detallen els continguts i estructura del repositori.
 
