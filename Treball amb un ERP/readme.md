@@ -94,7 +94,9 @@
    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/1.Stock.png) 
 
 6. Feu una comanda de compra als proveïdors habituals de deu unitats dels productes que heu creat. Imprimiu el pdf de la comanda de compra.
-* Ens hem adonat ara que hem comes un error, hem de cambiat el producte de consumible a "Producto almacenable" * 
+   
+* Ens hem adonat ara que hem comes un error, hem de cambiat el producte de consumible a "Producto almacenable" *
+  
    6.1 Anem al menu de compra -> Nuevo 
 
    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/0.Reponer_Stock.png) 
@@ -131,6 +133,7 @@
    
       
 8. Comproveu els estocs dels productes creats i rebuts.
+   
    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/0.comprobar_stock.png)
 
    
@@ -147,7 +150,7 @@
 
     ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/3.Cliente.png)
     
-12. Feu una venda a cadascun dels tres clients amb productes dels que heu donat d’alta. Cobreu-les.
+10. Feu una venda a cadascun dels tres clients amb productes dels que heu donat d’alta. Cobreu-les.
     
     Venta Client Dolres Decabeza
     
@@ -161,7 +164,7 @@
     
     ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/5.ventas.png)
 
-    12.1*Factures cobrades als clients.*
+    10.1*Factures cobrades als clients.*
 
     Dolores Decabeza
 
@@ -175,39 +178,39 @@
 
     ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/4.Comprovar_Venta(RM).png)
     
-13. Visualitzeu les factures. Imprimiu-les en un fitxer pdf.
+11. Visualitzeu les factures. Imprimiu-les en un fitxer pdf.
 
-    13.1 Nem amb el menu utilitzat fins ara a factures (on hem cobrat als nostres clients) i clickem el botó "Vista Previa"
+    11.1 Nem amb el menu utilitzat fins ara a factures (on hem cobrat als nostres clients) i clickem el botó "Vista Previa"
 
     ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/0.Vista_Previa.png)
 
-    13.2 Com hem pogut comprovar s'ha obert la factura de pagamaent, per descarregarla clickem el boto "Donwload"
+    11.2 Com hem pogut comprovar s'ha obert la factura de pagamaent, per descarregarla clickem el boto "Donwload"
 
     ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/1.Factura(DC).png)
 
-    13.3 Foto per adjuntar els fitxers descarregats:
+    11.3 Foto per adjuntar els fitxers descarregats:
 
     ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/0.Factura_Descargada.png)
 
-14. Comproveu l’estoc dels productes.
+12. Comproveu l’estoc dels productes.
 
-   14.1 Fem la comprobació de l'estoc per comprobar que ha baixat.(En el nostre cas si que habia baixat, donat que hem estat fent probes)
+   12.1 Fem la comprobació de l'estoc per comprobar que ha baixat.(En el nostre cas si que habia baixat, donat que hem estat fent probes)
 
    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/0.comprobar_stock.png)
 
-   14.2 Per poder fer que l'estoc s'actualitzi amb les vendes realitzades s'han de actualitzar les ordres d'entrega
+   12.2 Per poder fer que l'estoc s'actualitzi amb les vendes realitzades s'han de actualitzar les ordres d'entrega
 
    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/1.Comporvar_stock.png)
 
-   14.3 Entres a l'albará desitjat 
+   12.3 Entres a l'albará desitjat 
 
    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/2.Comprovar_stock.png)
 
-   14.4 Valides l'albará
+   12.4 Valides l'albará
 
    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/3.Comprovar_Stock.png)
    
-   14.3 Un cop realitzades les ordres d'entrega i les validacions dels albarans hem fet la comprobació de l'estock i s'ha actualitzat
+   12.3 Un cop realitzades les ordres d'entrega i les validacions dels albarans hem fet la comprobació de l'estock i s'ha actualitzat
 
    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/7.Comprovar_Stock.png)
 
