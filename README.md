@@ -5,6 +5,7 @@ Aquest repositori conté documentació i recursos per a la configuració, instal
 ## Continguts del Repositori
 
 ### Configuració_Inicial
+### [Configuració_Inicial](./Configuracion_Inicial)
 Aquesta carpeta inclou arxius i documentació per a la configuració inicial de l'ERP. Aquí trobaràs guies pas a pas i arxius de configuració necessaris.
 
 ### Instal·lació
