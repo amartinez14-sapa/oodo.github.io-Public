@@ -148,18 +148,21 @@
     ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/3.Cliente.png)
     
 12. Feu una venda a cadascun dels tres clients amb productes dels que heu donat d’alta. Cobreu-les.
+    
     Client Dolres Decabeza
+    
+    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/0.ventas.png)
     
     Client Elverga larga
     
+    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/3.ventas.png)
+    
     Client Rosa Melano
+    
+    ![foto_ajustes](https://github.com/amartinez14-sapa/oodo.github.io-Public/blob/main/img/5.ventas.png)
     
 14. Visualitzeu les factures. Imprimiu-les en un fitxer pdf.
-    Client Dolres Decabeza
-    
-    Client Elverga larga
-    
-    Client Rosa Melano
-    
-16. Comproveu l’estoc dels productes.
+       
+
+15. Comproveu l’estoc dels productes.
 
