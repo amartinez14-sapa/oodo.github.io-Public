@@ -13,13 +13,6 @@ En aquesta secció es proporciona la informació necessària per instal·lar l'E
 ### [Treball amb un ERP](./Treball%20amb%20un%20ERP)
 Documentació i guies sobre com treballar amb un ERP. Aquesta secció està dissenyada per a usuaris que ja han completat la instal·lació i configuració i desitgen aprendre a utilitzar el sistema eficaçment.
 
-## Com Contribuir
-
-1. **Clona el repositori**: `git clone https://github.com/el-teu-usuari/oodo.github.io-Public.git`
-2. **Crea una branca**: `git checkout -b nom-de-la-branca`
-3. **Fes els teus canvis** i **fes un commit**: `git commit -m "Descripció dels canvis"`
-4. **Envia els teus canvis**: `git push origin nom-de-la-branca`
-5. **Crea un Pull Request**: A la pàgina del repositori a GitHub, crea un nou Pull Request descrivint els canvis proposats.
 
 ## Contacte
 
